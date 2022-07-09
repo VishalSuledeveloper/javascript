@@ -1,4 +1,4 @@
-.//es5
+//es5
 //es6
 ecma Script
 ///Datatypes
